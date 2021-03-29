@@ -4,3 +4,10 @@
 .taille {
     width: 40px;
 }
+
+.position-cv {
+    padding-top: 2%;
+}
+.dd {
+    background-color: lightgray;
+}
